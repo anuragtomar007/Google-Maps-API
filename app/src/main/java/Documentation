@@ -1,0 +1,11 @@
+
+    STEPS FOR MAKING THIS PROJECT:
+    For Reference:
+    For Google Sign In activity : "https://www.youtube.com/watch?v=2PIaGpJMCNs
+        (For more info in this ..see other Repo.. "Google SignIn")
+    For Maps Activity : "https://www.youtube.com/watch?v=qS1E-Vrk60E"
+
+Step 1- Create a new Project and select the Google Maps Activity.
+Step 2- Then follow the video first for maps and then for google sign in video.
+Step 3- Change in the manifest file to launch the main activity.
+step 4-
